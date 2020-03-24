@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto', arial, sans-serif;
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+  line-height: 1.5;
+  background: #fff;
+  color: #444A59;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

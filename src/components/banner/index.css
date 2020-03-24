@@ -1,0 +1,48 @@
+.main-banner {
+  background-color: #a7a9fd;
+  min-height: 450px;
+  position: relative;
+}
+.main-banner .banner-content {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translateY(-50%);
+}
+.main-banner .heading {
+  color: #FFF;
+  font-size: 40px;
+}
+.main-banner .sub-heading {
+  color: #FFF;
+  width: 470px;
+}
+.main-banner .explore-btn {
+  background-color: #f9b700;
+  color: #FFF;
+  display: inline-block;
+  padding: 8px 15px;
+  margin-top: 16px;
+}
+.project-quote {
+  background-color: #f9b700;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+}
+.project-quote .info {
+
+}
+.project-quote .contact-link {
+  color: #0d0a01;
+  text-decoration: underline;
+  font-style: italic;
+}
+.project-quote .quote-btn {
+  background-color: #FFF;
+  color: #f9b700;
+  padding: 8px 12px;
+  margin-left: 100px;
+  font-size: 14px;
+}
