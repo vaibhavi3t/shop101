@@ -15,7 +15,7 @@ ReactDOM.render(
         </Switch>
       </App>
     </BrowserRouter>,
-  document.getElementById('truebilAppRoot'),
+  document.getElementById('root'),
 );
 
 registerServiceWorker();

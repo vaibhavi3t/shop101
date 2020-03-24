@@ -1,0 +1,41 @@
+.services-section {
+  text-align: center;
+  padding: 40px 0;
+}
+.services-section .heading {
+  font-size: 30px;
+}
+.services-section .service-info {
+  width: 350px;
+  margin: 0 auto;
+  color: #9fa3ba;
+}
+.service-list {
+  margin-top: 60px;
+}
+.service-list .service-image {
+  height: 150px;
+  margin-bottom: 16px;
+}
+.service-list li {
+  display: inline-block;
+  text-align: left;
+  width: 250px;
+  margin-right: 20px;
+  overflow: hidden;
+}
+.service-list .renovation-service .service-image {
+  background-color: #f9b700;
+}
+.service-list .consulting-service .service-image {
+  background-color: #f9b700;
+}
+.service-list .house-service .service-image {
+  background-color: #cea7fd;
+}
+.readme-link {
+  font-size: 12px;
+  padding: 8px 8px 8px 0;
+  color: #a7abc0;
+  display: inline-block;
+}
